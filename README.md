@@ -29,7 +29,7 @@ Arquitetura
 
 A aplicação segue uma arquitetura em camadas, separando a lógica de negócio (Domain), acesso a dados (Infraestrutura), aplicação (Application) e apresentação (Presentation - API).
 
-Pirncipios
+Principios
 Domain Driven Desing - Clean Architecture - SOLID
 
 Instalação e Execução
