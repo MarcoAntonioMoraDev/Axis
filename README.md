@@ -3,7 +3,7 @@ CooperativaApp
 Este repositório contém o código-fonte para o CooperativaApp, uma aplicação web para gerenciamento de informações de cooperativas e seus cooperados. 
 O sistema permite o cadastro, atualização e consulta de dados de cooperativas, cooperados e seus contatos favoritos, incluindo informações de chave PIX.
 
-Funcionalidades
+Funcionalidades:
 
 Gerenciamento de Cooperativas: Cadastro, atualização, exclusão e consulta de informações de cooperativas, incluindo nome e status de atividade.
 
@@ -15,25 +15,29 @@ Autenticação: Utiliza um sistema de autenticação para controlar o acesso às
 
 API REST: A aplicação expõe uma API RESTful para facilitar a integração com outros sistemas.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
 Backend: ASP.NET Core (.NET 8), Entity Framework Core, SQL Server, Docker
 
-Banco de dados: SQL Server
+Banco de dados: 
 
-Testes: xUnit, FluentAssertions, Microsoft.AspNetCore.Mvc.Testing, Bogus
+SQL Server
+
+Testes:
+
+xUnit, FluentAssertions, Microsoft.AspNetCore.Mvc.Testing, Bogus
 
 Outras Bibliotecas: [Serilog,AutoMapper,DataAnnotation]
 
-Arquitetura
+Arquitetura:
 
 A aplicação segue uma arquitetura em camadas, separando a lógica de negócio (Domain), acesso a dados (Infraestrutura), aplicação (Application) e apresentação (Presentation - API).
 
-Principios
+Principios:
 
 Domain Driven Desing (DDD) - Clean Architecture - SOLID
 
-Instalação e Execução
+Instalação e Execução:
 
 Clone o repositório:
 git clone [(https://github.com/MarcoAntonioMoraDev/Axis)]
