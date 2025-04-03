@@ -46,7 +46,8 @@ Inicialize o DockerDesktop
 Execute a Migration do Banco de Dados
 
 Navegue: cd [Axis/CooperativaApp]
-Abra o Terminal Power Shell, execute: dockecompose up -d
+
+Abra o Terminal Power Shell, execute: dockercompose up -d
 
 no Visual Studio inicialize a conexão com o Banco de Dados : ID=sa; Password=Axis2025!
 
