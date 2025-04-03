@@ -56,6 +56,7 @@ Execute a API
 Para geração de Token em Usuarios, endpoint POST api/usuarios/login
 
 email: admin@cooperativa.com
+
 senha: SenhaSegura123
 
 Autorize o uso da API clicando no botão Authorization e cole o Token gerado.
