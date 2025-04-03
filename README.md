@@ -23,7 +23,7 @@ Banco de dados: SQL Server
 
 Testes: xUnit, FluentAssertions, Microsoft.AspNetCore.Mvc.Testing, Bogus
 
-Outras Bibliotecas: [Serolig,AutoMapper,DataAnnotation]
+Outras Bibliotecas: [Serilog,AutoMapper,DataAnnotation]
 
 Arquitetura
 
